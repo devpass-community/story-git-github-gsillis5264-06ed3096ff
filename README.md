@@ -1,5 +1,5 @@
 
-## Ready, Set... Git Push
+# Ready, Set... Git Push
 
 This is my first CodeStory at Evercode.
 
